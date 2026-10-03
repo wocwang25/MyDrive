@@ -1,0 +1,24 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Java / Maven
+target/
+*.class
+
+# Gradle
+.gradle/
+build/
+
+# VS Code
+.vscode/
+
+# C/C++ build artifacts
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+compile_commands.json
+
+# OS
+.DS_Store
+Thumbs.db
